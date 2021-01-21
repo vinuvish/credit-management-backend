@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "credit-management-system-788b9",
+  "private_key_id": "2da6cd2bd7204c32ecc1f4129c8d396561819250",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCu3kxyK3E9V3Uo\nhRAoTW1bWeJf5E3ck/zfUhlUSjdReETUOfHnu7i0i4DkV6wip3zXGx5K6GDdlVtK\njfvSm+gUi6tlm+zKq5G8HCkEbRNS1BnH5ZMVd7MQNICi4WeisFDB9L0w4Sc/jJfo\nDDhtac4v/JIH9Jcr6cvMSKyfjIUOqUC0do02f6bXQocA3g5/qK2U2Xw17X/1BN9e\nwIf887L/UAS7jVxmFXhAc1XFhlZarf1xA1YWL7xutBfr3gDnQX4Fyr/9p7s4yAV2\nq34z4FBHnsiwKVvhrrakwe8SJZigEUtRJoyNXhcGMLeRw08+dH9TlIShBKvkepZH\nTW8tchLXAgMBAAECggEABfoTItPZSv9yQbBKnRYIZtbrpdtnzeJBAmEL/JWMznwN\n3jMc0Y7ZAVLDVQqqF4Uh/zguEOFgbjJsrF+t+8TYadtcQFzT+xliIcvUmxIfVvVo\n7Cwsms88j5E71FVf9W+RUw/KZ6FKdiGYD5ZbV2IGah134E273QRgstrJC6sB4T5Z\nQL3H0WrrUUf+grEkKWNRfrGKST6qGf8o1XF748B+JwSkb9j1c2e4eOHrRHC/GqpC\nxBzHF/8do10GEfg4ObACyFG+R/9laOjXXpS8tOCBgQMB25TPxOtW/GtWRfRAVNHL\n7eR9643kgTHh7DxGEYNDrwcp9Nr4f0kpjCAbCzx+AQKBgQDWym8vDNOAMHb748nW\nexyeqYtOwwJkQoUh8uiaIvhvE8noEEGmLLxGjdcB1oX/B17SyyKr72UBWXS0TiKE\nMDE4s45fhYvCscNhbWNTaktS/KaXoitwVUpXEMWmQbg9LW/E7pJ4hY3zc5q2UeyA\n/bLLZJ3DEk/URQgUmBik51UfqwKBgQDQaw20MoCjbbscLZNvgAj8Z00muwnPvGl5\nPPM0kUCIjB5nIJ84d9fWM0BszoroTpTyJe4DNLX4+Jm9VMjzWrGWp6lWNovPWYDz\npSfKmluTD/CMpQBHsYXBbyYIqqcnNgt/GzdMtgGA7xz2fjd05+sqh1L8htQ7Baha\nrhpe66bdhQKBgHXQBZouE9htPOY+9FezoWgZoPKrniU2I2YSoajh45ixpv6l5Axs\n3zxn0nYMn+TZuxYuG69pGOLbmVrIvL/62xS50C7uxlEdRgirgl6fn/8923aymdb8\nwVDuPytJQvAzeunu3eJDhy/wyfyVBP9fqHFNmAcGhUjuMFdzcZkJ1jQPAoGBAIZS\nCEHzLl6lcKqHYPbCQIhTFzD36Cne1ucQ9fkSB9I447s5FgRxkEP3QfUd4/417t5k\nvZGJXiH4LjUMOHpGIB/lLEho3RAkMexUq2Fyu8P6yOAL0zNhYL+6n3uEaDfoJ96i\nLrCcuDldYYAm9hy8/x2omz4uswba7ZaLkGlOXHt1AoGAMTGerYxnvaKp+MTXcpKr\nQwLCzxuBknWvds/yyvY1iDv0x8cc4N+Bjq6nqyfN/LcIjr1LF4GcKHsZatSMw87S\nyqw5MWRj1tWowzXucizHpmOqIavzAdYP7ZWmgNbWkrGyOtMo0NYLvfWxl/+CVZmn\nsDH2tYpn0S9+sTCayA0Cetw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4pz0o@credit-management-system-788b9.iam.gserviceaccount.com",
+  "client_id": "116040463906344667869",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4pz0o%40credit-management-system-788b9.iam.gserviceaccount.com"
+}
