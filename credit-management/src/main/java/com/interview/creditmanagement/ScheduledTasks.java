@@ -34,7 +34,7 @@ public class ScheduledTasks {
 
     }
 
-    @Scheduled(fixedRate = 50000)
+    @Scheduled(fixedRate = 300000)
     public void scheduleTaskAddCreditMonthly() throws ExecutionException, InterruptedException {
         responseList = creditManagementService.getApplications();
 
@@ -46,7 +46,7 @@ public class ScheduledTasks {
                 creditManagementService.addMonthlyAmortization(response, paymentPlan);
             } else {
 
-                if (response.getPaybackPeriod() < PaymentPlanList.size()) {
+                if (PaymentPlanList.size() < response.getPaybackPeriod() && PaymentPlanList.size() != response.getPaybackPeriod()  ) {
                     System.out.println(response.getId());
                     System.out.println(response.getPaybackPeriod());
                     System.out.println(PaymentPlanList.size());
